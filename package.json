@@ -5,12 +5,18 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "bananas": "node src/index.js",
+    "dev": "nodemon src/index.js",    "bananas": "node src/index.js",
     "rahul": "nmp run bananas && npm start",
     "forest_run": "npm start",
     "forest": "some command --argument run"
   },
   "keywords": [],
   "author": "Asdhy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }

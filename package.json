@@ -1,5 +1,5 @@
 {
-  "name": "feb24-t3w2-intro-to-node",
+  "name": "Term3W2-intro-to-node",
   "version": "1.0.0",
   "description": "Super cool dice rolling terminal app.",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
     "docs": "jsdoc ./src/*"
   },
   "keywords": [],
-  "author": "Alex",
+  "author": "Asdhy",
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
